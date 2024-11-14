@@ -27,7 +27,7 @@ Further details/hints are provided below after the Setup section.
 
 # Setup
 
-0. After having pulled from the upstream, `cd` into your `w10/d2` folder
+0. Clone this repo into your local
 1. `cd` into your `props-simpsons-website-lab/` folder and do an `ls`. You should see that you have a basic react project with an `src/` and `public/` folder but  that has `package.json` (list of packages) but is <strong>missing a node_modules/ folder</strong>:
 
 ![image](https://user-images.githubusercontent.com/24878576/126079216-d7fbdbde-27b1-455c-bb9b-2ea64bb7fba6.png)
