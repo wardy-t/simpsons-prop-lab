@@ -36,8 +36,9 @@ Further details/hints are provided below after the Setup section.
 8. Type `ls` to verify that a `node_modules/` folder has appeared which contains the installed packages.
 9. Type `code .` to open up the react project in VSCode
 10. Inside VSCode, open up the VSCode terminal (View->Terminal or Ctrl+backtick)
+<marquee>NOTE: This code is using some old code (it was created using "CRA" which people used before "Vite" existed. So teh way to run it is different:</marquee>
 11. Type `npm start` to run your react frontend. (If you have errors, try `npm audit fix` before `npm start`)
-13. On your browser, react may automatically open up localhost:3000. If not, you may have to do that yourself. (<strong>Note:</strong> Although react tooling uses `npm` and `package.json` and the node environment, we are NOT creating a server/doing backend work. All your react work is frontend code that runs on a browser.)
+12. On your browser, react may automatically open up localhost:3000. If not, you may have to do that yourself. (<strong>Note:</strong> Although react tooling uses `npm` and `package.json` and the node environment, we are NOT creating a server/doing backend work. All your react work is frontend code that runs on a browser.)
 
 You should see something that looks like the screenshot above.
 
